@@ -1,0 +1,85 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "code": "PRD001",
+      "name": "Yogur con cereal crujiente, una combinación deliciosa y nutritiva.",
+      "description": "Disfruta del delicioso Alpina Bonyurt con Trozos de Galleta en su presentación de 5.78 oz, una mezcla perfecta de yogurt cremoso y trozos de galleta crujiente...",
+      "img": "https://elmexiquense.latinstorenearme.com/cdn/shop/files/image_11ab263a-4d09-494b-a5c9-c7c2788b4980.jpg?v=1730057994",
+      "price": 3000,
+      "amount": 50
+    },
+    {
+      "id": 2,
+      "code": "PRD002",
+      "name": "Galletas Festival Vainilla",
+      "description": "Galletas rellenas de crema sabor vainilla, ideales para acompañar el café.",
+      "img": "https://elmexiquense.latinstorenearme.com/cdn/shop/files/Disenosintitulo-2024-11-21T221507.110.png?v=1732248940",
+      "price": 1500,
+      "amount": 40
+    },
+    {
+      "id": 3,
+      "code": "PRD003",
+      "name": "Papas Margarita Natural",
+      "description": "Papas fritas crujientes con sabor natural, un clásico colombiano.",
+      "img": "https://elmexiquense.latinstorenearme.com/cdn/shop/files/7702189053794_33.jpg?v=1729995025",
+      "price": 2000,
+      "amount": 60
+    },
+    {
+      "id": 4,
+      "code": "PRD004",
+      "name": "Gaseosa Colombiana 350ml",
+      "description": "Bebida gaseosa tradicional con sabor único, en presentación de vidrio.",
+      "img": "https://elmexiquense.latinstorenearme.com/cdn/shop/files/colombiana-gaseosas-comprar.png?v=1729994240",
+      "price": 2500,
+      "amount": 30
+    },
+    {
+      "id": 5,
+      "code": "PRD005",
+      "name": "Chocoramo",
+      "description": "Ponqué cubierto de chocolate, un snack dulce y esponjoso.",
+      "img": "https://elmexiquense.latinstorenearme.com/cdn/shop/files/chocorramo-mini-brownie-x-12-unidades-manantial-market_grande_4896dd1a-0d7b-410e-817b-ea7b634ced08.jpg?v=1729995598",
+      "price": 2200,
+      "amount": 35
+    },
+    {
+      "id": 6,
+      "code": "PRD006",
+      "name": "Gomitas Trululu Ositos",
+      "description": "Gomitas de gelatina con forma de ositos, sabores frutales variados.",
+      "img": "https://elmexiquense.latinstorenearme.com/cdn/shop/files/168849-800-auto.png?v=1729974431",
+      "price": 1000,
+      "amount": 45
+    },
+    {
+      "id": 7,
+      "code": "PRD007",
+      "name": "Café Águila Roja Instantáneo",
+      "description": "Café instantáneo colombiano de sabor intenso y aroma envolvente.",
+      "img": "https://elmexiquense.latinstorenearme.com/cdn/shop/files/71WF7iEvtZL._SX600.jpg?v=1730099137",
+      "price": 1800,
+      "amount": 20
+    },
+    {
+      "id": 8,
+      "code": "PRD008",
+      "name": "Rosquilla Olancha DMP 8oz",
+      "description": "Rosquitas de maíz con sabor a queso, crujientes y deliciosas.",
+      "img": "https://elmexiquense.latinstorenearme.com/cdn/shop/files/DMP-Rosquilla-pequena-600x600.png?v=1729829169",
+      "price": 1300,
+      "amount": 50
+    },
+    {
+      "id": 9,
+      "code": "PRD009",
+      "name": "Avena Alpina Botella 200ml",
+      "description": "Bebida de avena lista para tomar, nutritiva y refrescante.",
+      "img": "https://elmexiquense.latinstorenearme.com/cdn/shop/files/oatmealoriginal_850x_09c42043-772a-4482-abc9-634b13b3ca26.png?v=1732748031",
+      "price": 2000,
+      "amount": 30
+    }
+  ]
+}

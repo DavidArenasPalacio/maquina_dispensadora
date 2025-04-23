@@ -1,6 +1,8 @@
 export default {
     template: `
-        <h1>Aqui va el buscador de productos</h1>
+         <div class="grid grid-cols-2 md:grid-cols-3 gap-4"> 
+                
+         </div>
     `
 }
 
